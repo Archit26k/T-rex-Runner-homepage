@@ -19,6 +19,12 @@ header{
     color: white;
     background-color: #000;
 }
+.logo{
+    width: 170px;
+    position: absolute;
+    top: 6%;
+    left: 2%;
+}
 header ul{
     list-style: none;
     display: flex;
